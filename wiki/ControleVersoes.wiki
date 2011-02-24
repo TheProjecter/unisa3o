@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Sobre o projeto e controle de versões.
 
 = Introdução - Controle de Versão =
 Para este projeto, foi utilizado o software "TortoiseSVN", responsável pelo controle de versões.
